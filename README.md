@@ -2,9 +2,9 @@
 
 <dl>
 <dt>Course Name</dt>
-<dd>Data Structures and Algorithms and Data Structures and Algorithms Lab</dd>
+<dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>19ECSC201 and 19ECSP201</dd>
+<dd>23ECSE309</dd>
 <dt>Course Instructor</dt>
 <dd>Prakash Hegade</dd>
 <dt>University</dt>
@@ -13,10 +13,10 @@
 
 * * *
 
-> If you can think, you can code.
-> If you can think better, you can code better.
+> Do not look at stars as bright spots only. 
+> Try to take in the vastness of the universe.
 >
-> PH
+> Maria Mitchell, Astronomer
 
 #### Note:
 You will find all the course resources and related information on this page. The page is divided into four major sections. 
