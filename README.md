@@ -1,4 +1,4 @@
-# Dancing to the Tunes of Algorithms
+# Exploring the cosmos, where every star tells a story and every galaxy holds a mystery
 
 <dl>
 <dt>Course Name</dt>
