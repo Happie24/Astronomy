@@ -1,4 +1,4 @@
-# Exploring the cosmos, where every star tells a story and every galaxy holds a mystery
+# Exploring the Symphony of the Stars
 
 <dl>
 <dt>Course Name</dt>
