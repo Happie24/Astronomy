@@ -19,6 +19,7 @@
 > Maria Mitchell, Astronomer
 
 #### Introduction
+Throughout history, the aim of astronomy has been to make sense of the Universe. In the ancient world, astronomers puzzled over how and why the planets moved against the backdrop of the starry sky, the meaning of the mysterious apparition of comets, and the seeming remoteness of the Sun and stars. Today, the emphasis has changed to new questions concerning how the Universe began, what it is made of, and how it has changed. The way in which its constituents, such as galaxies, stars, and planets, fit into the larger picture and whether there is life beyond Earth are some of the questions humans still endeavour to answer.
 
 You will find all the course resources and related information on this page. The page is divided into four major sections. 
 
