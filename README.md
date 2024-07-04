@@ -18,7 +18,8 @@
 >
 > Maria Mitchell, Astronomer
 
-#### Note:
+#### Introduction
+
 You will find all the course resources and related information on this page. The page is divided into four major sections. 
 
 1. Challenges 
@@ -26,9 +27,6 @@ You will find all the course resources and related information on this page. The
 3. Lab Resources
 4. Course Project
 
-Every programmer must have an owned library of codes. They come in handy at need. Here is mine: [Day-Today Codes](https://github.com/prakashbh/day-today-codes). If you create and have a library of your own, well, you should!
-
-Check out the [HONEST DSA DASHBOARD.](https://tinyurl.com/honest-dsa-2019)
 
 * * *
 
