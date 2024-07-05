@@ -31,6 +31,36 @@ Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) cours
 
 ## Business Cases
 
+### 1. **Computation of Shortest Paths in Google Maps**
+
+**Use Case:**
+Google Maps: **Dijkstra's algorithm** can find the shortest path between two locations on a map. Essential for providing accurate directions to users, considering factors such as traffic conditions, road closures, and distance.
+
+Bellman-Ford Algorithm: **Bellman-Ford algorithm** can be used in Google's self-driving car project for path planning. It helps in finding the shortest path from the car's current location to its destination while considering factors such as road conditions, traffic congestion, and safety measures.
+
+Floyd-Warshall Algorithm: In Google's network infrastructure, the Floyd-Warshall algorithm can be used for network analysis. It helps in identifying the shortest paths between all pairs of nodes in a network, facilitating efficient communication and resolving connectivity issues.(all pair shortest path)
+
+
+**Challenges:** Computing shortest paths considering traffic and road conditions.
+
+**Market Benefits:** Accurate directions, optimized delivery routes, user time saved.
+
+**Algorithms, Design Techniques, Performance Analysis:**
+- **Dijkstra's Algorithm:** Greedy approach, Priority queue
+  - Time Complexity: O((V + E) log V) where V is the number of vertices and E is the number of edges
+  - Space Complexity: O(V) where V is the number of vertices<br>
+- **Bellman-Ford Algorithm:** Dynamic programming, Relaxation technique
+  - Time Complexity: O(VE) where V is the number of vertices and E is the number of edges
+  - Space Complexity: O(V) where V is the number of vertices<br>
+- **Floyd-Warshall Algorithm:** Dynamic programming, All-pairs shortest path
+- Time Complexity: O(V<sup>3</sup>) where V is the number of vertices
+- Space Complexity: O(V<sup>2</sup>) where V is the number of vertices
+
+
+[View Dijkstra's code here](https://github.com/jiyapalrecha35/Google.github.io/blob/main/codes/dijkstra.cpp){:target="_blank"}<br>
+[View Bellman-Ford code here](https://github.com/jiyapalrecha35/Google.github.io/blob/main/codes/bellman_ford.cpp){:target="_blank"}<br>
+[View Floyd-Warshall code here](https://github.com/jiyapalrecha35/Google.github.io/blob/main/codes/floyd_warshall.cpp){:target="_blank"}<br><br>
+
 **Challenge 01: Essay**
 
 One of the essential skill for a problem solver is Comprehension capability. Hence, the first challenge is an essay challenge. Read the ebook: [Design of a Programmer](https://www.smashwords.com/books/view/639609) and write an essay of 300-500 words. Your essay must not be a book review. It must be your take away thoughts. Pen down your thoughts on an A4 sheet with your name and roll number and submit it by the end of the class on **17th Aug 2019, 10.00am**. 
