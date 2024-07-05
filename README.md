@@ -43,7 +43,7 @@ Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulker
 **Algorithms and Design Techniques:**
 - **Ford Fulkerson's:** Greedy approach, Augmenting Path method
   
-[View Ford Fulkerson's code here](https://github.com/jiyapalrecha35/Google.github.io/blob/main/codes/dijkstra.cpp){:target="_blank"}<br>
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
 
