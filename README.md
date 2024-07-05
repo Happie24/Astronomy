@@ -26,6 +26,7 @@ Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) cours
 * Analyze the data structures and algorithms that power Twitter's core functionalities.
 * Apply theoretical knowledge gained from Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) courses to real-world challenges faced by Twitter.
 * Demonstrate the transformative power of algorithms within Twitter's ecosystem.
+
 * * *
 
 ## Business Cases
