@@ -39,7 +39,7 @@ int Ford_Fulkerson(int source,int target,int n,vector<vector<int>>& graph){
 
         vector<int> parent(n,-1);
         int max_flow = 0;
-        int min_cap = 0;   //storing minimum capacity in each path
+        int min_cap = 0;   
 
         //For finding path and minimum capacity we call function bfs()
         while(min_cap = bfs(source,target,n,parent,graph)){
