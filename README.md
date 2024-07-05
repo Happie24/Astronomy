@@ -33,8 +33,7 @@ Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) cours
 
 ### 1. **Tweets Analysis**
 
-**Case:**
-Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+**Ford Fulkerson's Algorithm:** In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
 
 **Challenges:** Solving the maximum flow problem for a directed graph (topology).
 
@@ -65,8 +64,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 
 ### 3. **User Influencers Analysis**
 
-**Case:**
-Dijkstra's Algorithm: In Twitter's network infrastructure, the Dijkstra's algorithm can be used for locating influential users with a strong hold on network of followers that also aligns with the target audience. Understanding the connections, we can use shortest path to reach these influential users.
+**Dijkstra's Algorithm:** In Twitter's network infrastructure, the Dijkstra's algorithm can be used for locating influential users with a strong hold on network of followers that also aligns with the target audience. Understanding the connections, we can use shortest path to reach these influential users.
 
 **Challenges:** Solving the problem of reaching a user with shortest path.
 
@@ -92,8 +90,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 * * *
 ### 5. **Geospatial Tweets Analysis**
 
-**Case:**
-Belmann Ford Algorithm: In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
 
 **Challenges:** Solving the location based data analysis by finding shortest path.
 
