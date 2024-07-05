@@ -15,7 +15,7 @@
 
 > Twitter is the best form of self-discipline that exists.
 >
-> John Mayer
+> by John Mayer
 
 ## Introduction
 Twitter, a microblogging and informal communication administration, has reformed how we convey and collaborate on the web. With over 400 million dynamic clients, it has become a worldwide stage for continuous updates on news, legislative issues, diversion, and sports. Its effortlessness, convenience, and exceptional highlights like the 280-character limit, hashtags, and @mentions have made it an optimal stage for continuous correspondence and data scattering. Nonetheless, underneath its smooth point of interaction and compact tweets lies a perplexing embroidery of information designs and calculations that power its center functionalities. 
@@ -30,8 +30,6 @@ Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) cours
 * * *
 
 ## Business Cases
-
-**Note:** Look out for All [Challenge Results](https://tinyurl.com/dsa-2019-challenges)
 
 **Challenge 01: Essay**
 
