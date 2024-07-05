@@ -22,19 +22,13 @@ Twitter, a microblogging and informal communication administration, has reformed
 
 Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) courses will serve as our theoretical foundations and practical expertise as we investigate the complexities of Twitter's services. This portfolio project expects to propose answers for genuine difficulties looked by Twitter, from advancing tweet suggestion calculations for upgraded client commitment to smoothing out satisfied balance processes. By saddling the power of cutting edge algorithmic strategies and imaginative information structures, we'll show how smart algorithmic critical thinking can refine client encounters, drive mechanical development, and sustain Twitter's situation as a forerunner in the web-based entertainment scene. Go along with me in this investigation as we overcome any issues between hypothetical information and viable application, uncovering the significant effect of information designs and calculations on current computerized correspondence.
 
-
+## Objectives
+* Analyze the data structures and algorithms that power Twitter's core functionalities.
+* Apply theoretical knowledge gained from Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) courses to real-world challenges faced by Twitter.
+* Demonstrate the transformative power of algorithms within Twitter's ecosystem.
 * * *
 
-### Prerequisites
-* A quick revision of [C Basic](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-c-basics.pdf) concepts.
-* You can revise your knowledge of structures through this ebook: [Structures and C](https://www.smashwords.com/books/view/644937). The book covers structures from the very basics to complex programs. 
-* Basic theory notes of [Stacks, Queues and Lists](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-theory.pdf)
-* [Applications](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-continued.pdf) of basic data structures
-* [Implementation](https://github.com/prakashbh/dsa-2019/blob/master/course-notes/0-stacks-queues-lists-implementation.pdf) of basic data structures
-
-* * *
-
-## Challenges
+## Business Cases
 
 **Note:** Look out for All [Challenge Results](https://tinyurl.com/dsa-2019-challenges)
 
