@@ -46,7 +46,7 @@ Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulker
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 * * *
-### 2. **Detection of Trending Topic **
+### 2. **Detection of Trending Topic**
 
 **Case:**
 Utilizing effective data processing methods like DFS, Topological Sorting and Hashing to identify and track trending topics and hashtags over time. Traversing the graph of related tweets to identify trending hashtags.
