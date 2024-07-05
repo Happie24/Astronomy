@@ -63,9 +63,237 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 * * *
 
+### 3. **User Influencers Analysis**
+
+**Case:**
+Dijkstra's Algorithm: In Twitter's network infrastructure, the Dijkstra's algorithm can be used for locating influential users with a strong hold on network of followers that also aligns with the target audience. Understanding the connections, we can use shortest path to reach these influential users.
+
+**Challenges:** Solving the problem of reaching a user with shortest path.
+
+**Market Benefits:** Targeted influencer marketing, better ROI on promotional campaigns.
+
+**Algorithms and Design Techniques:**
+- **Dijkstra's Algorithm:** Greedy approach, shortest path problem
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+* * *
+### 4. **Personalized Content Recommendation**
+
+**Case:**
+By analyzing the past likes, retweets,, followed accounts, the system can build a profile of user's interests. Collaborative filtering in dynamic approach can recommend content one would likely to engage with caring about to maximize your twitter experience.
+
+**Challenges:** Solving the problem of accurately predicting and recommending personalized content to users based on their historical ratings and interaction data using collaborative filtering.
+
+**Market Benefits:** Increased user engagement, higher retention rates, and improved ad targeting.
+
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+* * *
+### 5. **Geospatial Tweets Analysis**
+
+**Case:**
+Belmann Ford Algorithm: In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+
+**Challenges:** Solving the location based data analysis by finding shortest path.
+
+**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+
+**Algorithms and Design Techniques:**
+- ** Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
 * * *
+### 4. **Tweets Analysis**
 
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+
+* * *
+### 4. **Tweets Analysis**
+
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
