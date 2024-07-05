@@ -45,7 +45,19 @@ Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulker
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
+### 1. **Tweets Analysis**
 
+**Case:**
+Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+
+**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+
+**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+
+**Algorithms and Design Techniques:**
+- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+  
+[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 * * *
 
