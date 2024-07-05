@@ -46,24 +46,23 @@ Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulker
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 * * *
-### 2. **Tweets Analysis**
+### 2. **Detection of Trending Topic **
 
 **Case:**
-Ford Fulkerson's Algorithm: In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+Utilizing effective data processing methods like DFS, Topological Sorting and Hashing to identify and track trending topics and hashtags over time. Traversing the graph of related tweets to identify trending hashtags.
 
-**Challenges:** Solving the maximum flow problem for a directed graph (topology).
+**Challenges:** DFS: Finding the longest path in a tree (topology), discovering all the connected components in a graph, determining a cycle in a graph, finding a pattern in a grid, and locating a word in a crossword puzzle.
+Topological sorting and Hashing: Effectively analyzing and counting hashtags in a large stream of tweets.
 
-**Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
+**Market Benefits:** Real-time trend identification, enhanced marketing strategies, and better engagement with trending content.
 
 **Algorithms and Design Techniques:**
-- **Ford Fulkerson's:** Greedy approach, Augmenting Path method
+- **Topological sorting with hashing**
+- **DFS**
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
-
-
-
-
 * * *
+
 
 
 * * *
