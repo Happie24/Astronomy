@@ -1,4 +1,4 @@
-# Exploring the Symphony of the Stars
+# From Hashes to Hashtags: Algorithmic Adventures on Twitter
 
 <dl>
 <dt>Course Name</dt>
@@ -13,14 +13,12 @@
 
 * * *
 
-> Do not look at stars as bright spots only. 
-> Try to take in the vastness of the universe.
+> Twitter is the best form of self-discipline that exists.
 >
-> Maria Mitchell, Astronomer
+> John Mayer
 
 ## Introduction
-Throughout history, the aim of astronomy has been to make sense of the Universe. In the ancient world, astronomers puzzled over how and why the planets moved against the backdrop of the starry sky, the meaning of the mysterious apparition of comets, and the seeming remoteness of the Sun and stars. Today, the emphasis has changed to new questions concerning how the Universe began, what it is made of, and how it has changed. The way in which its constituents, such as galaxies, stars, and planets, fit into the larger picture and whether there is life beyond Earth are some of the questions humans still endeavour to answer.
-
+Twitter, a microblogging and informal communication administration, has reformed how we convey and collaborate on the web. With over 400 million dynamic clients, it has become a worldwide stage for continuous updates on news, legislative issues, diversion, and sports. Its effortlessness, convenience, and exceptional highlights like the 280-character limit, hashtags, and @mentions have made it an optimal stage for continuous correspondence and data scattering. Nonetheless, underneath its smooth point of interaction and compact tweets lies a perplexing embroidery of information designs and calculations that power its center functionalities. Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) courses will serve as our theoretical foundations and practical expertise as we investigate the complexities of Twitter's services. This portfolio project expects to propose answers for genuine difficulties looked by Twitter, from advancing tweet suggestion calculations for upgraded client commitment to smoothing out satisfied balance processes. By saddling the power of cutting edge algorithmic strategies and imaginative information structures, we'll show how smart algorithmic critical thinking can refine client encounters, drive mechanical development, and sustain Twitter's situation as a forerunner in the web-based entertainment scene. Go along with me in this investigation as we overcome any issues between hypothetical information and viable application, uncovering the significant effect of information designs and calculations on current computerized correspondence.
 You will find all the course resources and related information on this page. The page is divided into four major sections. 
 
 1. Challenges 
