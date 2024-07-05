@@ -35,9 +35,6 @@ Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) cours
 
 One of the essential skill for a problem solver is Comprehension capability. Hence, the first challenge is an essay challenge. Read the ebook: [Design of a Programmer](https://www.smashwords.com/books/view/639609) and write an essay of 300-500 words. Your essay must not be a book review. It must be your take away thoughts. Pen down your thoughts on an A4 sheet with your name and roll number and submit it by the end of the class on **17th Aug 2019, 10.00am**. 
 
-This is a compulsory challenge. All essays will be reviewed and graded on a scale of 1 to 35. The Challenge scorecard can be accessed here: [DOP Scorecard](https://tinyurl.com/dop-3c-2019)
-
-
 
 **Challenge 02: Code The Philosophy**
 
