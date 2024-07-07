@@ -34,7 +34,7 @@
 ## Business Cases
 
 ###  **1. Tweets Analysis**
-<p align="justify"> **Ford Fulkerson's Algorithm:** In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time. </p>
+**Ford Fulkerson's Algorithm:** <p align="justify">  In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time. </p>
 
 **Challenges:** Solving the maximum flow problem for a directed graph (topology).
 
