@@ -329,3 +329,17 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Huffman Coding:** Greedy approach, Lossless compression algorithm
   
 [View Huffman coding here](https://github.com/Happie24/Twitter/blob/master/Codes/Huffman%20coding.cpp){:target="_blank"}<br>
+* * *
+
+
+
+## References
+- https://www.techtarget.com/whatis/definition/Twitter
+- https://www.geeksforgeeks.org/dinics-algorithm-maximum-flow/
+- https://medium.com/@arst-dev/algorithms-in-c-kargers-algorithm-c719883be70e?responsesOpen=true&sortBy=REVERSE_CHRON
+- Brilliant.org ‘A* Search’
+- https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227
+
+
+
+
