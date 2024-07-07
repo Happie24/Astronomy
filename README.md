@@ -63,7 +63,6 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View DFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/DFS.c){:target="_blank"}<br>
 
 * * *
-
 ### 3. **User Influencers Analysis**
 
 **Dijkstra's Algorithm:** In Twitter's network infrastructure, the Dijkstra's algorithm can be used for locating influential users with a strong hold on network of followers that also aligns with the target audience. Understanding the connections, we can use shortest path to reach these influential users.
@@ -87,7 +86,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 **Market Benefits:** Increased user engagement, higher retention rates, and improved ad targeting.
 
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View code here](https://github.com/Happie24/Twitter/blob/master/Codes/Collaborative%20filter.py){:target="_blank"}<br>
 
 * * *
 ### 5. **Geospatial Tweets Analysis**
@@ -102,7 +101,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
   
 [View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
-
 
 * * *
 ### 6. **Analysis of Social Networks**
@@ -131,7 +129,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
   
 [View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
 
-
 * * *
 ### 8. **Management during Crisis**
 
@@ -148,7 +145,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 [View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
 [View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
 
-
 * * *
 ### 9. **Event Detection**
 
@@ -163,7 +159,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
   
 [View A* code here](https://github.com/Happie24/Twitter/blob/master/Codes/A%20star.cpp){:target="_blank"}<br>
 
-
 * * *
 ### 10. **Optimal Tweet Routing**
 
@@ -177,7 +172,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Dinic's Algorithm:** Greedy approach, Max flow method
   
 [View Dinic's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Dinic's){:target="_blank"}<br>
-
 
 * * *
 ### 11. **Efficient Storage of Data**
@@ -210,7 +204,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
   
 [View Segment Trees code here](https://github.com/Happie24/Twitter/blob/master/Codes/Segment%20trees.cpp){:target="_blank"}<br>
 
-
 * * *
 ### 13. **Search Autocomplete**
 
@@ -224,7 +217,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Radix Trees:** Compressed Tree
   
 [View Radix Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Radix%20tree.py){:target="_blank"}<br>
-
 
 * * *
 ### 14. **Maximum Chain of Retweets**
@@ -240,7 +232,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
   
 [View Jay Kadane's 2D code here](https://github.com/Happie24/Twitter/blob/master/Codes/Kadane%202d.cpp){:target="_blank"}<br>
 
-
 * * *
 ### 15. **Distribution of data efficiently**
 
@@ -254,7 +245,6 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Karger's Algorithm:** Randomized approach, Minimum cut of the graph
   
 [View Karger's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Karger's){:target="_blank"}<br>
-
 
 * * *
 ### 16. **Effective Notification System**
@@ -296,7 +286,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Best First Search:** Heuristic-driven approach, Greedy Search
   
-[View Best First Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Best First Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Best%20First%20Search.cpp){:target="_blank"}<br>
 
 * * *
 ### 19. **Retweet Cascade Prediction**
@@ -310,7 +300,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Skip List:** Dynamic approach, Probabilistic data structure.
   
-[View Skip Lists code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Skip Lists code here](https://github.com/Happie24/Twitter/blob/master/Codes/Skip%20list.cpp){:target="_blank"}<br>
 
 * * *
 ### 20. **Enhancement of User Search**
@@ -322,8 +312,9 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Trie:** Ordered Data Structure
 - **Binary Search:** Divide and Conquer
-  
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+[View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
+[View Binary Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Binary%20Search.cpp){:target="_blank"}<br>
 
 * * *
 ### 21. **Compressing Data Efficiently**
@@ -337,4 +328,4 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Huffman Coding:** Greedy approach, Lossless compression algorithm
   
-[View Huffman coding here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Huffman coding here](https://github.com/Happie24/Twitter/blob/master/Codes/Huffman%20coding.cpp){:target="_blank"}<br>
