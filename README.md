@@ -17,10 +17,12 @@
 >
 > by John Mayer
 
+
 ## Introduction
 <p align="justify"> Twitter, a microblogging and informal communication administration, has reformed how we convey and collaborate on the web. With over 400 million dynamic clients, it has become a worldwide stage for continuous updates on news, legislative issues, diversion, and sports. Its effortlessness, convenience, and exceptional highlights like the 280-character limit, hashtags, and @mentions have made it an optimal stage for continuous correspondence and data scattering. Nonetheless, underneath its smooth point of interaction and compact tweets lies a perplexing embroidery of information designs and calculations that power its center functionalities.  </p>
 
-Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) courses will serve as our theoretical foundations and practical expertise as we investigate the complexities of Twitter's services. This portfolio project expects to propose answers for genuine difficulties looked by Twitter, from advancing tweet suggestion calculations for upgraded client commitment to smoothing out satisfied balance processes. By saddling the power of cutting edge algorithmic strategies and imaginative information structures, we'll show how smart algorithmic critical thinking can refine client encounters, drive mechanical development, and sustain Twitter's situation as a forerunner in the web-based entertainment scene. Go along with me in this investigation as we overcome any issues between hypothetical information and viable application, uncovering the significant effect of information designs and calculations on current computerized correspondence.
+<p align="justify"> Data Structures and Algorithms (DSA) and Algorithmic Problem Solving (APS) courses will serve as our theoretical foundations and practical expertise as we investigate the complexities of Twitter's services. This portfolio project expects to propose answers for genuine difficulties looked by Twitter, from advancing tweet suggestion calculations for upgraded client commitment to smoothing out satisfied balance processes. By saddling the power of cutting edge algorithmic strategies and imaginative information structures, we'll show how smart algorithmic critical thinking can refine client encounters, drive mechanical development, and sustain Twitter's situation as a forerunner in the web-based entertainment scene. Go along with me in this investigation as we overcome any issues between hypothetical information and viable application, uncovering the significant effect of information designs and calculations on current computerized correspondence. </p>
+
 
 ## Objectives
 * Analyze the data structures and algorithms that power Twitter's core functionalities.
