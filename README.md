@@ -131,7 +131,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 * * *
 ### 8. **Management during Crisis**
 
-**Bellmann Ford Algorithm and BFS:**Considering the infrastructure of Twitter's network during calamities it is flooded with the real-time data, the Bellmann Ford algorithm and BFS can be used for analysis of the data we can map the information flow and understand the public responses. Using the mentioned algorithms, we can identify the most efficient paths to deliver aid based on reported needs and resource constraints.
+**Bellmann Ford Algorithm and BFS:** Considering the infrastructure of Twitter's network during calamities it is flooded with the real-time data, the Bellmann Ford algorithm and BFS can be used for analysis of the data we can map the information flow and understand the public responses. Using the mentioned algorithms, we can identify the most efficient paths to deliver aid based on reported needs and resource constraints.
 
 **Challenges:** Solving the problem of separating reliable information from misinformation and emotional outbursts.
 
