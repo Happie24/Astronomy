@@ -176,7 +176,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Dinic's Algorithm:** Greedy approach, Max flow method
   
-[View Dinic's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Dinic's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Dinic's){:target="_blank"}<br>
 
 
 * * *
@@ -192,7 +192,8 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Red Black Trees:** Self Balancing
 - **Trie:** Ordered Data Structure
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
+[View Red Black Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Red%20black.cpp){:target="_blank"}<br>
 
 
 * * *
@@ -207,7 +208,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Segemnt Tree:** Dynamic approach, Shortest Path method
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Segment Trees code here](https://github.com/Happie24/Twitter/blob/master/Codes/Segment%20trees.cpp){:target="_blank"}<br>
 
 
 * * *
@@ -222,7 +223,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Radix Trees:** Compressed Tree
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Radix Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Radix%20tree.py){:target="_blank"}<br>
 
 
 * * *
@@ -237,13 +238,13 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Jay Kadane's Algorithm:** Dynamic approach, Maximum subarray sum
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Jay Kadane's 2D code here](https://github.com/Happie24/Twitter/blob/master/Codes/Kadane%202d.cpp){:target="_blank"}<br>
 
 
 * * *
 ### 15. **Distribution of data efficiently**
 
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
 
 **Challenges:** Solving the location based data analysis by finding shortest path.
 
@@ -252,7 +253,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
 
 
 * * *
@@ -267,7 +268,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Radix Trees:** Compressed Tree
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Radix Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Radix%20tree.py){:target="_blank"}<br>
 
 * * *
 ### 17. **Interactive User Heatmap**
@@ -280,8 +281,8 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 **Algorithms and Design Techniques:**
 - **BFS:** Greedy approach,Finding neighbouring location
-  
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+  [View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
 
 * * *
 ### 18. **Geospatial Tweets Analysis**
