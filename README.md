@@ -244,16 +244,16 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 * * *
 ### 15. **Distribution of data efficiently**
 
-**Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the distribution of data across multiple servers is essential to ensure workloads are balanced, latency is minimized and the server overloads are prevented. Karger’s algorithm, which is known for finding minimum cuts in a graph, can be adapted to optimize data distribution by modeling the network of servers and data chunks as a graph.
 
-**Challenges:** Solving the location based data analysis by finding shortest path.
+**Challenges:** Managing the complexity of adapting the algorithm for dynamic, real-time data distribution.
 
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+**Market Benefits:** Improved system performance, enhanced data access speeds, and greater reliability in distributed systems.
 
 **Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+- **Karger's Algorithm:** Randomized approach, Minimum cut of the graph
   
-[View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
+[View Karger's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Karger's){:target="_blank"}<br>
 
 
 * * *
@@ -285,68 +285,56 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
   [View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
 
 * * *
-### 18. **Geospatial Tweets Analysis**
+### 18. **User Segmentation**
 
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Case:** User segmentation is the process of dividing a large user base into smaller, easier-to-manage groups or clusters based on particular behaviors like activity levels, engagement patterns, and preferences in the network infrastructure of Twitter. The use of Best First Search can be done to efficiently traverse a graph representing user behaviours, where nodes represent users and edges represent similarities in behaviours.
 
-**Challenges:** Solving the location based data analysis by finding shortest path.
+**Challenges:** Solving the problem of accurately segmenting users requires handling and analyzing complex and high-dimensional behavioral data.
 
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+**Market Benefits:** Improved Targeted Marketing, Enhanced Customer Experience.
 
 **Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+- **Best First Search:** Heuristic-driven approach, Greedy Search
+  
+[View Best First Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+* * *
+### 19. **Retweet Cascade Prediction**
+
+**Case:** Retweet overflow expectation plans to estimate how generally and quickly a tweet will be retweeted inside the Twitter's network infrastructure. It is possible to identify viral content, influential users, and the dissemination of information by comprehending retweet cascades. Hence, by using Skip Lists we can provide an efficient way of handling dynamic datasets with a multi-leveled list design.
+
+**Challenges:** Solving the problem of scalability by handling massive volume of tweets and retweets in real-time significantly.
+
+**Market Benefits:** Improved Marketing Strategies, Enhanced Crisis Management
+
+**Algorithms and Design Techniques:**
+- **Skip List:** Dynamic approach, Probabilistic data structure.
+  
+[View Skip Lists code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+
+* * *
+### 20. **Enhancement of User Search**
+
+**Case:** In the infrastructure of Twitter's network, implementing an effective user search system to quickly find users based on partial or misspelled name allows for the enhancement of user experience by providing accurate and fast search results. Trie (prefix tree) can be used to store all usernames in a way that allows for efficient retrieval of names based on partial inputs. also bonary search can be further used to to sort and quickly narrow down the list of results.
+
+**Market Benefits:** Improved search functionality, better user experience, and enhanced user discovery.
+
+**Algorithms and Design Techniques:**
+- **Trie:** Ordered Data Structure
+- **Binary Search:** Divide and Conquer
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 * * *
-### 5. **Geospatial Tweets Analysis**
+### 21. **Compressing Data Efficiently**
 
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Huffman Coding:** In the infrastructure of Twitter's network, with the growing data it faces problem in storing and managing of the vast amount of data. Use of Huffman Coding can help by assigning variable-length codes to input characters based on their frequencies, characters that will occur more frequently are assigned shorter codes, while less frequent characters receive longer codes resulting in significant compression ratios.
 
-**Challenges:** Solving the location based data analysis by finding shortest path.
+**Challenges:** Solving the problem of developing a real-time compression and decompression system that seamlessly integrates with Twitter's existing infrastructure while maintaining low latency and high reliability.
 
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
-
-**Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
-  
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
-* * *
-### 5. **Geospatial Tweets Analysis**
-
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
-
-**Challenges:** Solving the location based data analysis by finding shortest path.
-
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+**Market Benefits:** Reduced storage costs, improved data retrieval speeds, and better system performance.
 
 **Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+- **Huffman Coding:** Greedy approach, Lossless compression algorithm
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
-* * *
-### 5. **Geospatial Tweets Analysis**
-
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
-
-**Challenges:** Solving the location based data analysis by finding shortest path.
-
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
-
-**Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
-  
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
-* * *
-### 5. **Geospatial Tweets Analysis**
-
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
-
-**Challenges:** Solving the location based data analysis by finding shortest path.
-
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
-
-**Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
-  
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Huffman coding here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
