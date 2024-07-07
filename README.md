@@ -337,7 +337,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - https://www.techtarget.com/whatis/definition/Twitter
 - https://www.geeksforgeeks.org/dinics-algorithm-maximum-flow/
 - https://medium.com/@arst-dev/algorithms-in-c-kargers-algorithm-c719883be70e?responsesOpen=true&sortBy=REVERSE_CHRON
-- Brilliant.org ‘A* Search’
+- Brilliant.org 'A* Search'
 - https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227
 
 
