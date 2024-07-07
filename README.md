@@ -46,7 +46,7 @@
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 * * *
-### 2. **Detection of Trending Topic**
+###  **2. Detection of Trending Topic**
 
 **Case:** Utilizing effective data processing methods like DFS, Topological Sorting and Hashing to identify and track trending topics and hashtags over time. Traversing the graph of related tweets to identify trending hashtags.
 
@@ -63,7 +63,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View DFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/DFS.c){:target="_blank"}<br>
 
 * * *
-### 3. **User Influencers Analysis**
+### **3. User Influencers Analysis**
 
 **Dijkstra's Algorithm:** In Twitter's network infrastructure, the Dijkstra's algorithm can be used for locating influential users with a strong hold on network of followers that also aligns with the target audience. Understanding the connections, we can use shortest path to reach these influential users.
 
@@ -77,7 +77,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Dijkstra's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Dijkstra's%20algorithm.cpp){:target="_blank"}<br>
 
 * * *
-### 4. **Personalized Content Recommendation**
+### **4. Personalized Content Recommendation**
 
 **Case:** By analyzing the past likes, retweets,, followed accounts, the system can build a profile of user's interests. Collaborative filtering in dynamic approach can recommend content one would likely to engage with caring about to maximize your twitter experience.
 
@@ -88,7 +88,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View code here](https://github.com/Happie24/Twitter/blob/master/Codes/Collaborative%20filter.py){:target="_blank"}<br>
 
 * * *
-### 5. **Geospatial Tweets Analysis**
+### **5. Geospatial Tweets Analysis**
 
 **Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
 
@@ -102,7 +102,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
 
 * * *
-### 6. **Analysis of Social Networks**
+### **6. Analysis of Social Networks**
 
 **Kruskal's and Prim's Algorithm:** In the infrastructure of Twitter's network, the Kruskal's algorithm and the Prim's algorithm can be used for analysis of who follows whom and how users interact. basically examining user interactions, identifying community clusters and relationships. Recommending new followers based on the the study. 
 
@@ -118,7 +118,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Prim's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Prim's.cpp){:target="_blank"}<br>
 
 * * *
-### 7. **Detection of Spams**
+### **7. Detection of Spams**
 
 **Case:** Consider the infrastructure of Twitter's network, the spams and the bot-generated content can be filtered out by using a special data structure Trie, which can efficiently check for the prefixesof words. Words like "free", "winner", "clickbait" can be created in trie to quickly identify the spams allowing a more cleaner and enjoyable experience.
 
@@ -129,7 +129,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
 
 * * *
-### 8. **Management during Crisis**
+### **8. Management during Crisis**
 
 **Bellmann Ford Algorithm and BFS:** Considering the infrastructure of Twitter's network during calamities it is flooded with the real-time data, the Bellmann Ford algorithm and BFS can be used for analysis of the data we can map the information flow and understand the public responses. Using the mentioned algorithms, we can identify the most efficient paths to deliver aid based on reported needs and resource constraints.
 
@@ -145,7 +145,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
 
 * * *
-### 9. **Event Detection**
+### **9. Event Detection**
 
 **A Star Algorithm:** The sudden spikes in event and the sudden bursts of activity in tweets can be analyzed letting us know the nature of the event, its location related to some specific keywords or hashtags in the infrastructure of Twitter's network. For this we can use A* algorithm which is one of the most popular techinque used in path finding.
 
@@ -159,7 +159,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View A* code here](https://github.com/Happie24/Twitter/blob/master/Codes/A%20star.cpp){:target="_blank"}<br>
 
 * * *
-### 10. **Optimal Tweet Routing**
+### **10. Optimal Tweet Routing**
 
 **Dinic's Algorithm:** In the infrastructure of Twitter's network, to minimize the delays and the congestion we can opt for the dinic's algorithm so ast to choose least congested paths, avoiding bottlenecks and delays, ensuring the tweets reach swiftly and mininmizing the overall fustration.
 
@@ -173,7 +173,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Dinic's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Dinic's){:target="_blank"}<br>
 
 * * *
-### 11. **Efficient Storage of Data**
+### **11. Efficient Storage of Data**
 
 **Case:** In Twitter's network, the tweets are mix of text, hashtags, and media consisting of pictures, videos etc. This requires for a combination of storage solutions, considering the fact that not all tweets hold equal value. hence, strtergies like Red Black trees and Trie implementation can help in handling large volumes of tweet data letting also letting to archive the the older data and disgarding irrelevant information can optimize storage effiency.
 
@@ -190,7 +190,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 
 
 * * *
-### 12. **Processing of Real-Time Data**
+### **12. Processing of Real-Time Data**
 
 **Case:** Twitter is like a huge live feed, which is pulsing with the data all the time which makes it to have real-time daat processing. Segment trees are an effective data structure that are well-suited for Twitter's real-time data processing because they can effectively handle range queries and updates. Segment treees can be used to maintain query aggregated imformation, such as sentiment scores, user activity levels for a specfic time or content categories when it is applied to twitter data streams. 
 
@@ -204,7 +204,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Segment Trees code here](https://github.com/Happie24/Twitter/blob/master/Codes/Segment%20trees.cpp){:target="_blank"}<br>
 
 * * *
-### 13. **Search Autocomplete**
+### **13. Search Autocomplete**
 
 **Radix Trees:** To implement search autocomplete functionality, Radix Trees are highly effective data structures. They will store keys as a series of common prefixes, making quick lookups and compact storage possible. This traversal is extremely efficient even when dealing with large datasets. By compressing common prefixes, radix trees speed up the autocomplete process and use less memory by reducing redundant comparisons and storage.
 
@@ -218,7 +218,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Radix Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Radix%20tree.py){:target="_blank"}<br>
 
 * * *
-### 14. **Maximum Chain of Retweets**
+### **14. Maximum Chain of Retweets**
 
 **Jay Kadane's Algorithm:** In the infrastructure of Twitter's network, to find the maximum retweet chain by treating retweets as elements in an array where each element represents the influence or impact of a retweet we can use Jay Kadane's algorithm. Kadane's algorithm will determine the maxmimum cumulative imapct by traversing through the retweets.
 
@@ -232,7 +232,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Jay Kadane's 2D code here](https://github.com/Happie24/Twitter/blob/master/Codes/Kadane%202d.cpp){:target="_blank"}<br>
 
 * * *
-### 15. **Distribution of data efficiently**
+### **15. Distribution of data efficiently**
 
 **Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the distribution of data across multiple servers is essential to ensure workloads are balanced, latency is minimized and the server overloads are prevented. Karger’s algorithm, which is known for finding minimum cuts in a graph, can be adapted to optimize data distribution by modeling the network of servers and data chunks as a graph.
 
@@ -246,7 +246,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Karger's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Karger's){:target="_blank"}<br>
 
 * * *
-### 16. **Effective Notification System**
+### **16. Effective Notification System**
 
 **Case:** In the infrastructure of Twitter's network, the users receive nod=tifications in high volume daily. Sorting of these notifications by time and priority can be done by Radix trees which will store and retrieve notifications based on the prefixes. This will ensure that users see the most relevant updates first leading to improve overall experience.
 
@@ -260,7 +260,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Radix Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Radix%20tree.py){:target="_blank"}<br>
 
 * * *
-### 17. **Interactive User Heatmap**
+### **17. Interactive User Heatmap**
 
 **Case:** In the infrastructure of Twitter's network, creating a interactive user heatmap with the help of Breadth First Search which can be used to traverse the interaction of the twitter will help us to visualize  the intensity and spread of user interactions such as retweets, replies, mentions over a specific location or over specific topics.
  
@@ -274,7 +274,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
   [View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
 
 * * *
-### 18. **User Segmentation**
+### **18. User Segmentation**
  
 **Case:** User segmentation is the process of dividing a large user base into smaller, easier-to-manage groups or clusters based on particular behaviors like activity levels, engagement patterns, and preferences in the network infrastructure of Twitter. The use of Best First Search can be done to efficiently traverse a graph representing user behaviours, where nodes represent users and edges represent similarities in behaviours.
  
@@ -288,7 +288,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Best First Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Best%20First%20Search.cpp){:target="_blank"}<br>
 
 * * *
-### 19. **Retweet Cascade Prediction**
+### **19. Retweet Cascade Prediction**
  
 **Case:** Retweet overflow expectation plans to estimate how generally and quickly a tweet will be retweeted inside the Twitter's network infrastructure. It is possible to identify viral content, influential users, and the dissemination of information by comprehending retweet cascades. Hence, by using Skip Lists we can provide an efficient way of handling dynamic datasets with a multi-leveled list design.
  
@@ -302,7 +302,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Skip Lists code here](https://github.com/Happie24/Twitter/blob/master/Codes/Skip%20list.cpp){:target="_blank"}<br>
 
 * * *
-### 20. **Enhancement of User Search**
+### **20. Enhancement of User Search**
  
 **Case:** In the infrastructure of Twitter's network, implementing an effective user search system to quickly find users based on partial or misspelled name allows for the enhancement of user experience by providing accurate and fast search results. Trie (prefix tree) can be used to store all usernames in a way that allows for efficient retrieval of names based on partial inputs. also bonary search can be further used to to sort and quickly narrow down the list of results.
 
@@ -316,7 +316,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 [View Binary Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Binary%20Search.cpp){:target="_blank"}<br>
 
 * * *
-### 21. **Compressing Data Efficiently**
+### **21. Compressing Data Efficiently**
  
 **Huffman Coding:** In the infrastructure of Twitter's network, with the growing data it faces problem in storing and managing of the vast amount of data. Use of Huffman Coding can help by assigning variable-length codes to input characters based on their frequencies, characters that will occur more frequently are assigned shorter codes, while less frequent characters receive longer codes resulting in significant compression ratios.
  
@@ -334,6 +334,13 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 
 | **Algorithm**                               | **Time Complexity**                            | **Space Complexity**                          |
 |---------------------------------------------|------------------------------------------------|-----------------------------------------------|
+| **Dinic's Algorithm**                       | O(EV2)                                         | O(V + E)                                      |
+| **Karger's Algorithm**                      | O(n² log² n)                                   | O(n + m)                                      |
+| **Huffman Coding**                          | O(n + n log n + n) = O(n log n)                | O(n)                                          |
+| **Best First Search**                       | O(b^m)                                         | Polynomial                                    |
+| **Jay Kadane's Algorithm**                  | O(n)                                           | O(1)                                          |
+| **Radix Trees**                             | Insertion/Deletion/Search: O(k)                | O(n + m)                                      |
+| **Ford Fulkerson's Algorithm**              | O(V * E^2)                                     | O(V)                                          |
 | **Segment Trees**                           | Build: O(n log n), Query/Update: O(log n)      | O(n)                                          |
 | **Red-Black Trees**                         | Insertion/Deletion/Search: O(log n)            | O(n)                                          |
 | **Binary Search Tree**                      | Insert/Delete/Search: O(log n) avg, O(n) worst | O(n)                                          |
@@ -347,13 +354,6 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 | **Kruskal's Algorithm**                     | O(E log E)                                     | O(E + V)                                      |
 | **Prim's Trees**                            | O(V2) for matrix, O((V +E) log V) for list     | O(V+E) for priority queue, O(V2) for matrix   |
 | **Floyd-Warshall Algorithm**                | O(V^3)                                         | O(V^2)                                        |
-| **Dinic's Algorithm**                       | O(EV2)                                         | O(V + E)                                      |
-| **Karger's Algorithm**                      | O(n² log² n)                                   | O(n + m)                                      |
-| **Huffman Coding**                          | O(n + n log n + n) = O(n log n)                | O(n)                                          |
-| **Best First Search**                       | O(b^m)                                         | Polynomial                                    |
-| **Jay Kadane's Algorithm**                  | O(n)                                           | O(1)                                          |
-| **Radix Trees**                             | Insertion/Deletion/Search: O(k)                | O(n + m)                                      |
-| **Ford Fulkerson's Algorithm**              | O(V * E^2)                                     | O(V)                                          |
 
 * * *
 ## References
