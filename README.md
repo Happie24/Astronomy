@@ -335,28 +335,28 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 ## Time and Space Complexities
 
-| **Algorithm**                         | **Time Complexity**                            | **Space Complexity**                          |
-|---------------------------------------|------------------------------------------------|-----------------------------------------------|
-| **Segment Trees**                     | Build: O(n log n), Query/Update: O(log n)      | O(n)                                          |
-| **Red-Black Trees**                   | Insertion/Deletion/Search: O(log n)            | O(n)                                          |
-| **Binary Search Tree**                | Insert/Delete/Search: O(log n) avg, O(n) worst | O(n)                                          |
-| **Dijkstra's Algorithm**              | O((V + E) log V)                               | O(V^2)                                        |
-| **A* Search Algorithm**               | O(E)                                           | O(E)                                          |
-| **Bellman-Ford Algorithm**            | O(VE)                                          | O(V)                                          |
-| **Trie Data Structure**               | Insert/Search: O(m)                            | O(m) per node                                 |
-| **BFS and DFS**                       | O(V + E)                                       | O(V)                                          |
-| **Skip List**                         | Insert/Delete/Search: O(log n)                 | O(n)                                          |
-| **Topological Sorting**               | O(V + E)                                       | O(V)                                          |
-| **Kruskal's Algorithm**               | O(E log E)                                     | O(E + V)                                      |
-| **Prim's Trees**                      | O(V2) for matrix, O((V +E) log V) for list     | O(V+E) for priority queue, O(V2) for matrix   |
-| **Floyd-Warshall Algorithm**          | O(V^3)                                         | O(V^2)                                        |
-| **Dinic's Algorithm**                 | O(EV2)                                         | O(V + E)                                      |
-| **Karger's Algorithm**                | O(n² log² n)                                   | O(n + m)                                      |
-| **Huffman Coding**                    | O(n + n log n + n) = O(n log n)                | O(n)                                          |
-| **Best First Search**                 | O(b^m)                                         | Polynomial                                    |
-| **Jay Kadane's Algorithm**            | O(n)                                           | O(1)                                          |
-| **Radix Trees**                       | Insertion/Deletion/Search: O(k)                | O(n + m)                                      |
-| **Ford Fulkerson's Algorithm**        | O(|V| * E^2)                                   | O(V)                                          |
+| **Algorithm**                               | **Time Complexity**                            | **Space Complexity**                          |
+|---------------------------------------------|------------------------------------------------|-----------------------------------------------|
+| **Segment Trees**                           | Build: O(n log n), Query/Update: O(log n)      | O(n)                                          |
+| **Red-Black Trees**                         | Insertion/Deletion/Search: O(log n)            | O(n)                                          |
+| **Binary Search Tree**                      | Insert/Delete/Search: O(log n) avg, O(n) worst | O(n)                                          |
+| **Dijkstra's Algorithm**                    | O((V + E) log V)                               | O(V^2)                                        |
+| **A* Search Algorithm**                     | O(E)                                           | O(E)                                          |
+| **Bellman-Ford Algorithm**                  | O(VE)                                          | O(V)                                          |
+| **Trie Data Structure**                     | Insert/Search: O(m)                            | O(m) per node                                 |
+| **BFS and DFS**                             | O(V + E)                                       | O(V)                                          |
+| **Skip List**                               | Insert/Delete/Search: O(log n)                 | O(n)                                          |
+| **Topological Sorting**                     | O(V + E)                                       | O(V)                                          |
+| **Kruskal's Algorithm**                     | O(E log E)                                     | O(E + V)                                      |
+| **Prim's Trees**                            | O(V2) for matrix, O((V +E) log V) for list     | O(V+E) for priority queue, O(V2) for matrix   |
+| **Floyd-Warshall Algorithm**                | O(V^3)                                         | O(V^2)                                        |
+| **Dinic's Algorithm**                       | O(EV2)                                         | O(V + E)                                      |
+| **Karger's Algorithm**                      | O(n² log² n)                                   | O(n + m)                                      |
+| **Huffman Coding**                          | O(n + n log n + n) = O(n log n)                | O(n)                                          |
+| **Best First Search**                       | O(b^m)                                         | Polynomial                                    |
+| **Jay Kadane's Algorithm**                  | O(n)                                           | O(1)                                          |
+| **Radix Trees**                             | Insertion/Deletion/Search: O(k)                | O(n + m)                                      |
+| **Ford Fulkerson's Algorithm**              | O(V * E^2)                                     | O(V)                                          |
 
 * * *
 ## References
