@@ -356,6 +356,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 | **Best First Search**                       | O(b^m)                                         | Polynomial                                    |
 | **Jay Kadane's Algorithm**                  | O(n)                                           | O(1)                                          |
 | **Radix Trees**                             | Insertion/Deletion/Search: O(k)                | O(n + m)                                      |
+| **Ford Fulkerson's Algorithm**              | O(V * E^2)                                     | O(V)                                          |
 
 * * *
 ## References
