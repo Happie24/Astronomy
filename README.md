@@ -33,9 +33,8 @@
 
 ## Business Cases
 
-### 1. **Tweets Analysis**
-
-**Ford Fulkerson's Algorithm:** In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time.
+###  **1. Tweets Analysis**
+<p align="justify"> **Ford Fulkerson's Algorithm:** In Twitter's network infrastructure, the Ford Fulkerson's algorithm can be used for network/tweets analysis by augmenting path method. It helps in understanding public opinion by analyzing the sentiment of tweets about particular events or topics in real time. </p>
 
 **Challenges:** Solving the maximum flow problem for a directed graph (topology).
 
@@ -48,10 +47,9 @@
 
 * * *
 ### 2. **Detection of Trending Topic**
-
-**Case:**
-Utilizing effective data processing methods like DFS, Topological Sorting and Hashing to identify and track trending topics and hashtags over time. Traversing the graph of related tweets to identify trending hashtags.
-
+<p align="justify"> Your Text </p>
+**Case:** Utilizing effective data processing methods like DFS, Topological Sorting and Hashing to identify and track trending topics and hashtags over time. Traversing the graph of related tweets to identify trending hashtags.
+<p align="justify"> Your Text </p>
 **Challenges:** DFS: Finding the longest path in a tree (topology), discovering all the connected components in a graph, determining a cycle in a graph, finding a pattern in a grid, and locating a word in a crossword puzzle.
 Topological sorting and Hashing: Effectively analyzing and counting hashtags in a large stream of tweets.
 
@@ -66,7 +64,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 
 * * *
 ### 3. **User Influencers Analysis**
-
+<p align="justify"> Your Text </p>
 **Dijkstra's Algorithm:** In Twitter's network infrastructure, the Dijkstra's algorithm can be used for locating influential users with a strong hold on network of followers that also aligns with the target audience. Understanding the connections, we can use shortest path to reach these influential users.
 
 **Challenges:** Solving the problem of reaching a user with shortest path.
@@ -80,10 +78,10 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 
 * * *
 ### 4. **Personalized Content Recommendation**
-
+<p align="justify"> Your Text </p>
 **Case:**
 By analyzing the past likes, retweets,, followed accounts, the system can build a profile of user's interests. Collaborative filtering in dynamic approach can recommend content one would likely to engage with caring about to maximize your twitter experience.
-
+<p align="justify"> Your Text </p>
 **Challenges:** Solving the problem of accurately predicting and recommending personalized content to users based on their historical ratings and interaction data using collaborative filtering.
 
 **Market Benefits:** Increased user engagement, higher retention rates, and improved ad targeting.
@@ -92,7 +90,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 5. **Geospatial Tweets Analysis**
-
+<p align="justify"> Your Text </p>
 **Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
 
 **Challenges:** Solving the location based data analysis by finding shortest path.
@@ -106,7 +104,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 6. **Analysis of Social Networks**
-
+<p align="justify"> Your Text </p>
 **Kruskal's and Prim's Algorithm:** In the infrastructure of Twitter's network, the Kruskal's algorithm and the Prim's algorithm can be used for analysis of who follows whom and how users interact. basically examining user interactions, identifying community clusters and relationships. Recommending new followers based on the the study. 
 
 **Challenges:** Solving the commmunity clusters and relationships identification problem by computing minimal spanning tree.
@@ -122,7 +120,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 7. **Detection of Spams**
-
+<p align="justify"> Your Text </p>
 **Case:** Consider the infrastructure of Twitter's network, the spams and the bot-generated content can be filtered out by using a special data structure Trie, which can efficiently check for the prefixesof words. Words like "free", "winner", "clickbait" can be created in trie to quickly identify the spams allowing a more cleaner and enjoyable experience.
 
 **Challenges:** Solving the Problem of bot-generated or spams by creating trie.
@@ -133,7 +131,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 8. **Management during Crisis**
-
+<p align="justify"> Your Text </p>
 **Bellmann Ford Algorithm and BFS:**Considering the infrastructure of Twitter's network during calamities it is flooded with the real-time data, the Bellmann Ford algorithm and BFS can be used for analysis of the data we can map the information flow and understand the public responses. Using the mentioned algorithms, we can identify the most efficient paths to deliver aid based on reported needs and resource constraints.
 
 **Challenges:** Solving the problem of separating reliable information from misinformation and emotional outbursts.
@@ -149,7 +147,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 9. **Event Detection**
-
+<p align="justify"> Your Text </p>
 **A Star Algorithm:** The sudden spikes in event and the sudden bursts of activity in tweets can be analyzed letting us know the nature of the event, its location related to some specific keywords or hashtags in the infrastructure of Twitter's network. For this we can use A* algorithm which is one of the most popular techinque used in path finding.
 
 **Challenges:** Analyzing the sudden spikes in an event.
@@ -163,7 +161,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 10. **Optimal Tweet Routing**
-
+<p align="justify"> Your Text </p>
 **Dinic's Algorithm:** In the infrastructure of Twitter's network, to minimize the delays and the congestion we can opt for the dinic's algorithm so ast to choose least congested paths, avoiding bottlenecks and delays, ensuring the tweets reach swiftly and mininmizing the overall fustration.
 
 **Challenges:** Solving the problem of delay and congestion for max flow.
@@ -177,7 +175,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 11. **Efficient Storage of Data**
-
+<p align="justify"> Your Text </p>
 **Case:** In Twitter's network, the tweets are mix of text, hashtags, and media consisting of pictures, videos etc. This requires for a combination of storage solutions, considering the fact that not all tweets hold equal value. hence, strtergies like Red Black trees and Trie implementation can help in handling large volumes of tweet data letting also letting to archive the the older data and disgarding irrelevant information can optimize storage effiency.
 
 **Challenges:** Efficient storage of data and optimize storage effiency.
@@ -194,7 +192,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 12. **Processing of Real-Time Data**
-
+<p align="justify"> Your Text </p>
 **Case:** Twitter is like a huge live feed, which is pulsing with the data all the time which makes it to have real-time daat processing. Segment trees are an effective data structure that are well-suited for Twitter's real-time data processing because they can effectively handle range queries and updates. Segment treees can be used to maintain query aggregated imformation, such as sentiment scores, user activity levels for a specfic time or content categories when it is applied to twitter data streams. 
 
 **Challenges:** Solving the problem of efficiently handling updates and queries in a highly dynamic and large scale data stream environment of Twitter.
@@ -208,11 +206,11 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 13. **Search Autocomplete**
-
+<p align="justify"> Your Text </p>
 **Radix Trees:** To implement search autocomplete functionality, Radix Trees are highly effective data structures. They will store keys as a series of common prefixes, making quick lookups and compact storage possible. This traversal is extremely efficient even when dealing with large datasets. By compressing common prefixes, radix trees speed up the autocomplete process and use less memory by reducing redundant comparisons and storage.
-
+<p align="justify"> Your Text </p>
 **Challenges:** Solving the problem of implementing search autocomplete using radix trees which efficiently manages and updates the tree structure.
-
+<p align="justify"> Your Text </p>
 **Market Benefits:** Improves user experience by providing fast and relevant suggestions, increasing user satisfaction and engagement on the platform.
 
 **Algorithms and Design Techniques:**
@@ -222,11 +220,11 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 14. **Maximum Chain of Retweets**
-
+<p align="justify"> Your Text </p>
 **Jay Kadane's Algorithm:** In the infrastructure of Twitter's network, to find the maximum retweet chain by treating retweets as elements in an array where each element represents the influence or impact of a retweet we can use Jay Kadane's algorithm. Kadane's algorithm will determine the maxmimum cumulative imapct by traversing through the retweets.
 
 **Challenges:** Solving the problem of computing maximum retweet chain dynamically using Kadane's algorithm.
-
+<p align="justify"> Your Text </p>
 **Market Benefits:** Enhanced understanding of tweet virality, enabling targeted marketing strategies and improved content amplification.
 
 **Algorithms and Design Techniques:**
@@ -236,7 +234,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 15. **Distribution of data efficiently**
-
+<p align="justify"> Your Text </p>
 **Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the distribution of data across multiple servers is essential to ensure workloads are balanced, latency is minimized and the server overloads are prevented. Karger’s algorithm, which is known for finding minimum cuts in a graph, can be adapted to optimize data distribution by modeling the network of servers and data chunks as a graph.
 
 **Challenges:** Managing the complexity of adapting the algorithm for dynamic, real-time data distribution.
@@ -250,11 +248,11 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 16. **Effective Notification System**
-
+<p align="justify"> Your Text </p>
 **Case:** In the infrastructure of Twitter's network, the users receive nod=tifications in high volume daily. Sorting of these notifications by time and priority can be done by Radix trees which will store and retrieve notifications based on the prefixes. This will ensure that users see the most relevant updates first leading to improve overall experience.
-
+<p align="justify"> Your Text </p>
 **Challenges:** Handling the continuous influx of notifications in real-time while maintaining the efficiency and accuracy of sorting and retrieval operations with the help of radix trees.
-
+<p align="justify"> Your Text </p>
 **Market Benefits:** Utilizing radix trees to manage the constant stream of notifications while preserving the effectiveness and accuracy of sorting and retrieval operations.
 
 **Algorithms and Design Techniques:**
@@ -264,11 +262,11 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 17. **Interactive User Heatmap**
-
+<p align="justify"> Your Text </p>
 **Case:** In the infrastructure of Twitter's network, creating a interactive user heatmap with the help of Breadth First Search which can be used to traverse the interaction of the twitter will help us to visualize  the intensity and spread of user interactions such as retweets, replies, mentions over a specific location or over specific topics.
-
+<p align="justify"> Your Text </p>
 **Challenges:** Solving the problem of efficiently handling the large volume of interactions on Twitter in real-time, so that the heatmap remains up-to-date and accurate as new interactions occur.
-
+<p align="justify"> Your Text </p>
 **Market Benefits:** Enhanced targeted marketing strategies by identifying high-engagement regions and influential users, leading to improved campaign effectiveness and customer reach.
 
 **Algorithms and Design Techniques:**
@@ -278,9 +276,9 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 18. **User Segmentation**
-
+<p align="justify"> Your Text </p>
 **Case:** User segmentation is the process of dividing a large user base into smaller, easier-to-manage groups or clusters based on particular behaviors like activity levels, engagement patterns, and preferences in the network infrastructure of Twitter. The use of Best First Search can be done to efficiently traverse a graph representing user behaviours, where nodes represent users and edges represent similarities in behaviours.
-
+<p align="justify"> Your Text </p>
 **Challenges:** Solving the problem of accurately segmenting users requires handling and analyzing complex and high-dimensional behavioral data.
 
 **Market Benefits:** Improved Targeted Marketing, Enhanced Customer Experience.
@@ -292,9 +290,9 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 19. **Retweet Cascade Prediction**
-
+<p align="justify"> Your Text </p>
 **Case:** Retweet overflow expectation plans to estimate how generally and quickly a tweet will be retweeted inside the Twitter's network infrastructure. It is possible to identify viral content, influential users, and the dissemination of information by comprehending retweet cascades. Hence, by using Skip Lists we can provide an efficient way of handling dynamic datasets with a multi-leveled list design.
-
+<p align="justify"> Your Text </p>
 **Challenges:** Solving the problem of scalability by handling massive volume of tweets and retweets in real-time significantly.
 
 **Market Benefits:** Improved Marketing Strategies, Enhanced Crisis Management
@@ -306,7 +304,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 20. **Enhancement of User Search**
-
+<p align="justify"> Your Text </p>
 **Case:** In the infrastructure of Twitter's network, implementing an effective user search system to quickly find users based on partial or misspelled name allows for the enhancement of user experience by providing accurate and fast search results. Trie (prefix tree) can be used to store all usernames in a way that allows for efficient retrieval of names based on partial inputs. also bonary search can be further used to to sort and quickly narrow down the list of results.
 
 **Market Benefits:** Improved search functionality, better user experience, and enhanced user discovery.
@@ -320,9 +318,9 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 * * *
 ### 21. **Compressing Data Efficiently**
-
+<p align="justify"> Your Text </p>
 **Huffman Coding:** In the infrastructure of Twitter's network, with the growing data it faces problem in storing and managing of the vast amount of data. Use of Huffman Coding can help by assigning variable-length codes to input characters based on their frequencies, characters that will occur more frequently are assigned shorter codes, while less frequent characters receive longer codes resulting in significant compression ratios.
-
+<p align="justify"> Your Text </p>
 **Challenges:** Solving the problem of developing a real-time compression and decompression system that seamlessly integrates with Twitter's existing infrastructure while maintaining low latency and high reliability.
 
 **Market Benefits:** Reduced storage costs, improved data retrieval speeds, and better system performance.
