@@ -59,7 +59,9 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 - **Topological sorting with hashing**
 - **DFS**
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Topological Sorting with hashing code here](https://github.com/Happie24/Twitter/blob/master/Codes/Topolocial%20sort%20and%20hashing.py){:target="_blank"}<br>
+[View DFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/DFS.c){:target="_blank"}<br>
+
 * * *
 
 ### 3. **User Influencers Analysis**
@@ -73,7 +75,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Dijkstra's Algorithm:** Greedy approach, shortest path problem
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Dijkstra's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Dijkstra's%20algorithm.cpp){:target="_blank"}<br>
 
 * * *
 ### 4. **Personalized Content Recommendation**
@@ -99,7 +101,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
 
 
 * * *
@@ -115,8 +117,8 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Kruskal's Algorithm:** Greedy approach, Minimal spanning tree 
 - **Prim's Algorithm:** Greedy approach, Minimal spanning tree 
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
-
+[View Kruskal's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Kruskal's.cpp){:target="_blank"}<br>
+[View Prim's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Prim's.cpp){:target="_blank"}<br>
 
 * * *
 ### 7. **Detection of Spams**
@@ -127,7 +129,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 **Market Benefits:**  Improved user experience, enhanced security, and reduced spam on the platform.
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
 
 
 * * *
@@ -143,7 +145,8 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 - **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
 - **BFS:** Greedy approach,Finding neighbouring location
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
+[View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
 
 
 * * *
@@ -158,7 +161,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **A Star Algorithm:** Heuristic-based approach
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View A* code here](https://github.com/Happie24/Twitter/blob/master/Codes/A%20star.cpp){:target="_blank"}<br>
 
 
 * * *
@@ -173,7 +176,7 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 **Algorithms and Design Techniques:**
 - **Dinic's Algorithm:** Greedy approach, Max flow method
   
-[View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
+[View Dinic's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
 * * *
