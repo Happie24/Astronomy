@@ -177,67 +177,68 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 
 
 * * *
-### 5. **Geospatial Tweets Analysis**
+### 11. **Efficient Storage of Data**
 
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Case:** In Twitter's network, the tweets are mix of text, hashtags, and media consisting of pictures, videos etc. This requires for a combination of storage solutions, considering the fact that not all tweets hold equal value. hence, strtergies like Red Black trees and Trie implementation can help in handling large volumes of tweet data letting also letting to archive the the older data and disgarding irrelevant information can optimize storage effiency.
 
-**Challenges:** Solving the location based data analysis by finding shortest path.
+**Challenges:** Efficient storage of data and optimize storage effiency.
 
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+**Market Benefits:** Reduced storage costs, improved data retrieval speeds, and better system performance.
 
 **Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+- **Red Black Trees:** Self Balancing
+- **Trie:** Ordered Data Structure
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
 * * *
-### 5. **Geospatial Tweets Analysis**
+### 12. **Processing of Real-Time Data**
 
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Case:** Twitter is like a huge live feed, which is pulsing with the data all the time which makes it to have real-time daat processing. Segment trees are an effective data structure that are well-suited for Twitter's real-time data processing because they can effectively handle range queries and updates. Segment treees can be used to maintain query aggregated imformation, such as sentiment scores, user activity levels for a specfic time or content categories when it is applied to twitter data streams. 
 
-**Challenges:** Solving the location based data analysis by finding shortest path.
+**Challenges:** Solving the problem of efficiently handling updates and queries in a highly dynamic and large scale data stream environment of Twitter.
 
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+**Market Benefits:** Enhanced real-time analytics, better trend tracking, and improved decision-making.
 
 **Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+- **Segemnt Tree:** Dynamic approach, Shortest Path method
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
 * * *
-### 5. **Geospatial Tweets Analysis**
+### 13. **Search Autocomplete**
 
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Radix Trees:** To implement search autocomplete functionality, Radix Trees are highly effective data structures. They will store keys as a series of common prefixes, making quick lookups and compact storage possible. This traversal is extremely efficient even when dealing with large datasets. By compressing common prefixes, radix trees speed up the autocomplete process and use less memory by reducing redundant comparisons and storage.
 
-**Challenges:** Solving the location based data analysis by finding shortest path.
+**Challenges:** Solving the problem of implementing search autocomplete using radix trees which efficiently manages and updates the tree structure.
 
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+**Market Benefits:** Improves user experience by providing fast and relevant suggestions, increasing user satisfaction and engagement on the platform.
 
 **Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+- **Radix Trees:** Compressed Tree
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
 * * *
-### 5. **Geospatial Tweets Analysis**
+### 14. **Maximum Chain of Retweets**
 
-**Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
+**Jay Kadane's Algorithm:** In the infrastructure of Twitter's network, to find the maximum retweet chain by treating retweets as elements in an array where each element represents the influence or impact of a retweet we can use Jay Kadane's algorithm. Kadane's algorithm will determine the maxmimum cumulative imapct by traversing through the retweets.
 
-**Challenges:** Solving the location based data analysis by finding shortest path.
+**Challenges:** Solving the problem of computing maximum retweet chain dynamically using Kadane's algorithm.
 
-**Market Benefits:** Targeted local advertising, better event planning, and improved regional insights.
+**Market Benefits:** Enhanced understanding of tweet virality, enabling targeted marketing strategies and improved content amplification.
 
 **Algorithms and Design Techniques:**
-- **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
+- **Jay Kadane's Algorithm:** Dynamic approach, Maximum subarray sum
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
 
 * * *
-### 5. **Geospatial Tweets Analysis**
+### 15. **Distribution of data efficiently**
 
 **Belmann Ford Algorithm:** In the infrastructure of Twitter's network, the Bellmann Ford algorithm can be used for analysis of the tweets on the location based data to study regional trends  and events. this would allow us to know regional events, understand public opinions in a specific area.
 
