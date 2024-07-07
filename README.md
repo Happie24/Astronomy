@@ -336,21 +336,37 @@ By analyzing the past likes, retweets,, followed accounts, the system can build 
 ## Time and Space Complexities
 
 | **Algorithm**                         | **Time Complexity**                            | **Space Complexity**                          |
+
 |---------------------------------------|------------------------------------------------|-----------------------------------------------|
+
 | **Segment Trees**                     | Build: O(n log n), Query/Update: O(log n)      | O(n)                                          |
+
 | **Red-Black Trees**                   | Insert/Delete/Search: O(log n)                 | O(n)                                          |
+
 | **Binary Search Tree**                | Insert/Delete/Search: O(log n) avg, O(n) worst | O(n)                                          |
+
 | **Dijkstra's Algorithm**              | O((V + E) log V)                               | O(V^2)                                        |
+
 | **A* Search Algorithm**               | O(E)                                           | O(E)                                          |
+
 | **Bellman-Ford Algorithm**            | O(VE)                                          | O(V)                                          |
+
 | **Trie Data Structure**               | Insert/Search: O(m)                            | O(m) per node                                 |
+
 | **BFS and DFS**                       | O(V + E)                                       | O(V)                                          |
+
 | **Skip List**                         | Insert/Delete/Search: O(log n)                 | O(n)                                          |
+
 | **Topological Sorting**               | O(V + E)                                       | O(V)                                          |
+
 | **Kruskal's Algorithm**               | O(E log E)                                     | O(E + V)                                      |
+
 | **Floyd-Warshall Algorithm**          | O(V^3)                                         | O(V^2)                                        |
+
 | **Dinic's Algorithm**                 | O(n^2 * 2^n)                                   | O(n * 2^n)                                    |
+
 | **Karger's Algorithm**                | O(n^2 * 2^n)                                   | O(n * 2^n)                                    |
+
 | **Huffman Coding**                    | O(n^2 * 2^n)                                   | O(n * 2^n)                                    |
 
 * * *
