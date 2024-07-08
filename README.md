@@ -142,7 +142,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Trie:** Ordered Data Structure
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/trie.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
 
@@ -158,10 +158,10 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/bellmann.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
 - **BFS:** Greedy approach,Finding neighbouring location
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/BFS.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
 [View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
@@ -178,7 +178,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **A Star Algorithm:** Heuristic-based approach
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/A star.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View A* code here](https://github.com/Happie24/Twitter/blob/master/Codes/A%20star.cpp){:target="_blank"}<br>
 
@@ -194,7 +194,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Dinic's Algorithm:** Greedy approach, Max flow method
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/dinic's.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Dinic's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Dinic's){:target="_blank"}<br>
 
@@ -210,10 +210,10 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Red Black Trees:** Self Balancing
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/red black.bmp" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
 - **Trie:** Ordered Data Structure
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/trie.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
 [View Red Black Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Red%20black.cpp){:target="_blank"}<br>
@@ -231,7 +231,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Segemnt Tree:** Dynamic approach, Shortest Path method
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/Segment Trees.jpeg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Segment Trees code here](https://github.com/Happie24/Twitter/blob/master/Codes/Segment%20trees.cpp){:target="_blank"}<br>
 
@@ -247,7 +247,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Radix Trees:** Compressed Tree
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/radix.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Radix Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Radix%20tree.py){:target="_blank"}<br>
 
@@ -263,14 +263,14 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Jay Kadane's Algorithm:** Dynamic approach, Maximum subarray sum
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/kadane's.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Jay Kadane's 2D code here](https://github.com/Happie24/Twitter/blob/master/Codes/Kadane%202d.cpp){:target="_blank"}<br>
 
 * * *
 ### **15. Distribution of data efficiently**
 
-**Bellmann Ford Algorithm:** In the infrastructure of Twitter's network, the distribution of data across multiple servers is essential to ensure workloads are balanced, latency is minimized and the server overloads are prevented. Karger’s algorithm, which is known for finding minimum cuts in a graph, can be adapted to optimize data distribution by modeling the network of servers and data chunks as a graph.
+**Karger's Algorithm:** In the infrastructure of Twitter's network, the distribution of data across multiple servers is essential to ensure workloads are balanced, latency is minimized and the server overloads are prevented. Karger’s algorithm, which is known for finding minimum cuts in a graph, can be adapted to optimize data distribution by modeling the network of servers and data chunks as a graph.
 
 **Challenges:** Managing the complexity of adapting the algorithm for dynamic, real-time data distribution.
 
@@ -279,7 +279,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Karger's Algorithm:** Randomized approach, Minimum cut of the graph
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/Karger.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Karger's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Karger's){:target="_blank"}<br>
 
@@ -295,7 +295,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Radix Trees:** Compressed Tree
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/radix.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Radix Tree code here](https://github.com/Happie24/Twitter/blob/master/Codes/Radix%20tree.py){:target="_blank"}<br>
 
@@ -311,7 +311,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **BFS:** Greedy approach,Finding neighbouring location
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/BFS.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
 
   [View BFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/BFS.cpp){:target="_blank"}<br>
 
@@ -327,7 +327,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Best First Search:** Heuristic-driven approach, Greedy Search
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/best first.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Best First Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Best%20First%20Search.cpp){:target="_blank"}<br>
 
@@ -343,7 +343,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Skip List:** Dynamic approach, Probabilistic data structure.
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/skip.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Skip Lists code here](https://github.com/Happie24/Twitter/blob/master/Codes/Skip%20list.cpp){:target="_blank"}<br>
 
@@ -357,10 +357,10 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Trie:** Ordered Data Structure
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/trie.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
 - **Binary Search Tree:** Greedy approach, Divide and Conquer
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/BST.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
 
 [View Trie data structure sample code here](https://github.com/Happie24/Twitter/blob/master/Codes/Trie%20(insert%20and%20search).cpp){:target="_blank"}<br>
 [View Binary Search code here](https://github.com/Happie24/Twitter/blob/master/Codes/Binary%20Search.cpp){:target="_blank"}<br>
@@ -377,7 +377,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Huffman Coding:** Greedy approach, Lossless compression algorithm
 
- <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+ <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/huffmann.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Huffman coding here](https://github.com/Happie24/Twitter/blob/master/Codes/Huffman%20coding.cpp){:target="_blank"}<br>
 * * *
