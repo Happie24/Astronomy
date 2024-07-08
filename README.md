@@ -61,10 +61,10 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Topological sorting with hashing**
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/topological.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
 - **DFS**
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/dfs.jpg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Topological Sorting with hashing code here](https://github.com/Happie24/Twitter/blob/master/Codes/Topolocial%20sort%20and%20hashing.py){:target="_blank"}<br>
 [View DFS code here](https://github.com/Happie24/Twitter/blob/master/Codes/DFS.c){:target="_blank"}<br>
@@ -81,7 +81,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Dijkstra's Algorithm:** Greedy approach, shortest path problem
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/dj.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Dijkstra's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Dijkstra's%20algorithm.cpp){:target="_blank"}<br>
 
@@ -108,7 +108,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Algorithms and Design Techniques:**
 - **Bellmann Ford Algorithm:** Dynamic approach, Shortest Path method
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/bellmann.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Bellmann Ford code here](https://github.com/Happie24/Twitter/blob/master/Codes/Bellmann%20ford's.cpp){:target="_blank"}<br>
 
@@ -123,11 +123,9 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 
 **Algorithms and Design Techniques:**
 - **Kruskal's Algorithm:** Greedy approach, Minimal spanning tree
-
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
 - **Prim's Algorithm:** Greedy approach, Minimal spanning tree
 
-   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/ford_fulkerson2.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+   <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/Prims-and-Kruskals.png" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Kruskal's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Kruskal's.cpp){:target="_blank"}<br>
 [View Prim's Algorithm code here](https://github.com/Happie24/Twitter/blob/master/Codes/Prim's.cpp){:target="_blank"}<br>
