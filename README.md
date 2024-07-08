@@ -42,6 +42,7 @@
 **Market Benefits:** Improved customer satisfaction, targeted marketing campaigns, and better crisis management.
 
 **Algorithms and Design Techniques:**
+[Ford Fulkerson](https://raw.githubusercontent.com/Happie24/Twitter/blob/master/Images/FordFulkerson.gif)
 - **Ford Fulkerson's:** Greedy approach, Augmenting Path method
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
