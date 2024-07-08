@@ -17,7 +17,14 @@
 >
 > by John Mayer
 
+## This Page contains:
+1. Introduction
+2. Objectives
+3. Business Cases
+4. Time and Space Complexities
+5. References
 
+   
 ## Introduction
 <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/intro.png" alt="Operating systems" style="width: 50%; height: auto; margin: 20px auto; display: block;" />
 <p align="justify"> Twitter, a microblogging and informal communication administration, has reformed how we convey and collaborate on the web. With over 400 million dynamic clients, it has become a worldwide stage for continuous updates on news, legislative issues, diversion, and sports. Its effortlessness, convenience, and exceptional highlights like the 280-character limit, hashtags, and @mentions have made it an optimal stage for continuous correspondence and data scattering. Nonetheless, underneath its smooth point of interaction and compact tweets lies a perplexing embroidery of information designs and calculations that power its center functionalities.  </p>
