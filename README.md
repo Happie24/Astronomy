@@ -415,7 +415,8 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 - [Karger's Algorithm](https://medium.com/@arst-dev/algorithms-in-c-kargers-algorithm-c719883be70e?responsesOpen=true&sortBy=REVERSE_CHRON){:target="_blank"}<br>
 - [Ford Fulkerson's Algorithm ](https://hyperskill.org/learn/step/27203){:target="_blank"}<br>
 - [A* Search ](https://brilliant.org/wiki/a-star-search/){:target="_blank"}<br>
-- [Understanding Dinic's Algorithm](https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227){:target="_blank"}<br>
+- [Reference for Business Cases 1](https://www.marq.com/blog/11-reasons-your-brand-should-use-twitter-marketing){:target="_blank"}<br>
+- [Reference for Business Cases 2](https://www.webfx.com/social-media/learn/benefits-of-twitter-for-business/){:target="_blank"}<br>
 
 
 
