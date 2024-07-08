@@ -44,7 +44,7 @@
 **Algorithms and Design Techniques:**
 - **Ford Fulkerson's:** Greedy approach, Augmenting Path method
   
-  <img src="https://github.com/Happie24/Twitter/blob/master/Images/ford_fulkerson2.png" alt="Twitter" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
+  <img src="https://raw.githubusercontent.com/Happie24/Twitter/blob/master/Images/ford_fulkerson2.png" alt="Twitter" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
 [View Ford Fulkerson's code here](https://github.com/Happie24/Twitter/blob/master/Codes/Ford%20Fulkerson.cpp){:target="_blank"}<br>
 
