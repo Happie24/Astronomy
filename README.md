@@ -229,7 +229,7 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 **Market Benefits:** Enhanced real-time analytics, better trend tracking, and improved decision-making.
 
 **Algorithms and Design Techniques:**
-- **Segemnt Tree:** Dynamic approach, Shortest Path method
+- **Segement Tree:** Dynamic approach, Shortest Path method
 
  <img src="https://raw.githubusercontent.com/Happie24/Twitter/master/Images/Segment Trees.jpeg" alt="Operating systems" style="width: 40%; height: auto; left-margin: 0px ; display: block;" />
   
@@ -409,12 +409,13 @@ Topological sorting and Hashing: Effectively analyzing and counting hashtags in 
 
 * * *
 ## References
-- https://www.techtarget.com/whatis/definition/Twitter
-- https://www.geeksforgeeks.org/dinics-algorithm-maximum-flow/
-- https://medium.com/@arst-dev/algorithms-in-c-kargers-algorithm-c719883be70e?responsesOpen=true&sortBy=REVERSE_CHRON
-- Brilliant.org 'A* Search'
-- https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227
-- https://hyperskill.org/learn/step/27203
+- [View Twitter Official Website](https://x.com/?lang=en){:target="_blank"}<br>
+- [About Twitter](https://www.techtarget.com/whatis/definition/Twitter){:target="_blank"}<br>
+- [Understanding Dinic's Algorithm ](https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227){:target="_blank"}<br>
+- [Karger's Algorithm](https://medium.com/@arst-dev/algorithms-in-c-kargers-algorithm-c719883be70e?responsesOpen=true&sortBy=REVERSE_CHRON){:target="_blank"}<br>
+- [Ford Fulkerson's Algorithm ](https://hyperskill.org/learn/step/27203){:target="_blank"}<br>
+- [A* Search ](https://brilliant.org/wiki/a-star-search/){:target="_blank"}<br>
+- [Understanding Dinic's Algorithm](https://medium.com/smucs/understanding-dinics-algorithm-ebf892e66227){:target="_blank"}<br>
 
 
 
